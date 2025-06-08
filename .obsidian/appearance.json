@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Wikipedia",
+  "enabledCssSnippets": [
+    "columns"
+  ],
+  "accentColor": "",
+  "showViewHeader": true
+}
