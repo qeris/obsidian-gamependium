@@ -1,7 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "showInlineTitle": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }

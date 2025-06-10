@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESO/Items/Wheat.md",
+                "file": "Callouts Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wheat"
-            }
-          },
-          {
-            "id": "c581b481f907c46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Callouts Demo"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,41 @@
     "type": "split",
     "children": [
       {
-        "id": "3a7e9c541d21368e",
+        "id": "eb1deabeefbd0ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85027460edafcb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Callouts Demo.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Callouts Demo"
+            }
+          }
+        ]
+      },
+      {
+        "id": "af7a1396f5a13db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d67980a5a38f8dd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7bf2de139932ede7",
         "type": "tabs",
         "children": [
           {
@@ -108,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESO/Items/Wheat.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wheat"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -127,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/Cobbleverse/Cobblemon.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cobblemon"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -156,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft/Cobbleverse/Cobblemon.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cobblemon"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -181,29 +202,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "eb1deabeefbd0ea8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c85027460edafcb1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "ESO/Items/Wheat.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Wheat"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,55 +217,56 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
   "active": "5cb6aecd6f04ac69",
   "lastOpenFiles": [
-    "ESO/Items/Provisioning Materials.md",
-    "ESO/Items/Wheat.md",
-    "Minecraft/Cobbleverse/Cobblemon/Cobblemon.md",
-    "Untitled.md",
-    "Pasted image 20250607154635.png",
-    "wheat.png",
-    "ESO/Items/Cotton.md",
-    "Pasted image 20250607152420.png",
+    "Pasted image 20250609230226.png",
+    "ESO/images/Pasted image 20250609225019.png",
+    "ESO/Locations/ESO - Locations.md",
     "ESO/Locations/Grahtwood.md",
+    "ESO/Items/Provisioning Materials/Wheat.md",
+    "Templates/ESO - Location Template.md",
+    "Templates/Zelda ToTK - Location Template.md",
+    "Templates/ESO_Provisioning_Material Template.md",
+    "ESO/Items/ESO - Items.md",
     "ESO/Items/Enchanting/Petty Glyph of Health.md",
-    "ESO/Locations",
-    "ESO/Items/Enchanting",
-    "ESO/Items",
-    "Minecraft/ATM",
-    "Zelda - Tears of the Kingdom/Zonai Devices.md",
-    "Zelda - Tears of the Kingdom/Zonai Device Dispensers.md",
-    "Zelda - Tears of the Kingdom/Zonai.md",
-    "Zelda - Tears of the Kingdom/Wing.md",
-    "Zelda - Tears of the Kingdom/West Necluda Sky Archipelago (na).md",
-    "Zelda - Tears of the Kingdom/Wellspring Island.md",
-    "Zelda - Tears of the Kingdom/Valor Island.md",
-    "Zelda - Tears of the Kingdom/Two-Handed Weapons.md",
-    "Zelda - Tears of the Kingdom/Tu Ka_loh Shrine.md",
-    "Zelda - Tears of the Kingdom/Torin Wetland.md",
-    "Zelda - Tears of the Kingdom/Tabantha Sky Archipelago.md",
-    "Zelda - Tears of the Kingdom/Steering Stick.md",
-    "Zelda - Tears of the Kingdom/Starview Island.md",
-    "Zelda - Tears of the Kingdom/Stake.md",
-    "Zelda - Tears of the Kingdom/Stabilizer.md",
-    "Zelda - Tears of the Kingdom/Spears.md",
-    "Zelda - Tears of the Kingdom/South Hyrule Sky Archipelago.md",
-    "Zelda - Tears of the Kingdom/Sokkala Sky Archipelago (na).md",
-    "Zelda - Tears of the Kingdom",
-    "Zelda - Breath of the Wild",
-    "Warframe",
-    "Terraria",
-    "ESO",
-    "Builders Gate 3",
+    "ESO/Items/Provisioning Materials/Cotton.md",
+    "ESO/Items/Provisioning Materials/Provisioning Materials.md",
+    "Zelda - Tears of the Kingdom/Vehicles/Hoverbike.md",
+    "Zelda - Tears of the Kingdom/Vehicles/Zelda ToTK - Vehicles.md",
+    "Zelda - Tears of the Kingdom/The Legend of Zelda - Tears of the Kingdom (2023).md",
+    "Zelda - Tears of the Kingdom/Vehicles/Flying Vehicles.md",
+    "Zelda - Tears of the Kingdom/BOTW - Captured Memories.md",
+    "Templates/Vehicle Template.md",
+    "Zelda - Tears of the Kingdom/Locations/Zelda ToTk - Locations.md",
+    "Zelda - Tears of the Kingdom/Locations/Woodland Tower.md",
+    "Zelda - Tears of the Kingdom/Locations/Tu Ka'loh Shrine.md",
+    "Zelda - Tears of the Kingdom/Locations/Sacred Ground Ruins.md",
+    "Zelda - Tears of the Kingdom/Locations/Tabantha Sky Archipelago.md",
+    "Zelda - Tears of the Kingdom/Locations/Lake Kolomo.md",
+    "Zelda - Tears of the Kingdom/Locations/Kara Kara Bazaar.md",
+    "Zelda - Tears of the Kingdom/Locations/Kakariko Village.md",
+    "Zelda - Tears of the Kingdom/Locations/Hateno Village.md",
+    "Templates",
+    "Zelda - Tears of the Kingdom/Effects",
+    "Zelda - Tears of the Kingdom/Items/Materials",
+    "Zelda - Tears of the Kingdom/Items/Masks",
+    "Zelda - Tears of the Kingdom/NPCs",
+    "Zelda - Tears of the Kingdom/Items/Food",
+    "Zelda - Tears of the Kingdom/Enemies",
+    "Zelda - Tears of the Kingdom/Items/Weapons",
+    "Zelda - Tears of the Kingdom/Items/Armour",
+    "Zelda - Tears of the Kingdom/Vehicles",
+    "ESO/images/wheat.png",
+    "Pasted image 20250607154635.png",
+    "Pasted image 20250607152420.png",
     "Minecraft/Cobbleverse/images/Pasted image 20250607122946.png",
     "Minecraft/Cobbleverse/images/Pasted image 20250607120549.png",
     "Minecraft/Cobbleverse/images/Pasted image 20250607121423.png",
     "Minecraft/Cobbleverse/images/Pasted image 20250607121353.png",
-    "Minecraft/Cobbleverse/images/Pasted image 20250607121325.png",
-    "Minecraft/Cobbleverse/images/Pasted image 20250607121256.png",
-    "Minecraft/Cobbleverse/images/Pasted image 20250607121227.png"
+    "Minecraft/Cobbleverse/images/Pasted image 20250607121325.png"
   ]
 }
