@@ -1,6 +1,10 @@
 # [[Animal Crossing New Horizon]]
 - [[ACNH - Dailies|Dailies]]
 
+# [[Aniimo]]
+- [[Aniimo - Beginner Guide|Beginner Guide]]
+- [[Aniimo - Tips and Tricks|Tips and Tricks]]
+
 # [[Builders Gate 3]]
 - [[Builders Gate 3]]
 
