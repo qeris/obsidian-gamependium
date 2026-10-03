@@ -4,6 +4,7 @@
 # [[Aniimo]]
 - [[Aniimo - Beginner Guide|Beginner Guide]]
 - [[Aniimo - Tips and Tricks|Tips and Tricks]]
+- [[Aniimo - Character Sheet|Character Sheet]]
 
 # [[Builders Gate 3]]
 - [[Builders Gate 3]]
